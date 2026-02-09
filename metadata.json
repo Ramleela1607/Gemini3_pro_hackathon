@@ -1,0 +1,8 @@
+{
+  "name": "Explain-My-Mistake",
+  "description": "An AI-powered diagnostic tool that helps you understand the root cause of your errors in code, math, or writing, turning every mistake into a learning opportunity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
